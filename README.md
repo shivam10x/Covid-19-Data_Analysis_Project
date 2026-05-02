@@ -25,7 +25,7 @@ This project analyzes COVID-19 data to understand trends in confirmed cases, dea
 
 ## 📊 Dataset
 
-* COVID-19 Global Dataset (CSV format)
+* owid-covid-data (CSV format)
 
 ---
 
